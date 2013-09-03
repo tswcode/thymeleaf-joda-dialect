@@ -31,7 +31,7 @@ import org.springframework.web.servlet.LocaleResolver;
  * 
  */
 @Service
-public final class Joda {
+public class Joda {
 
 	private final static String DEFAULT_STYLE = "MS";
 
