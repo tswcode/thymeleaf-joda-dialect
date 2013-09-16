@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.thymeleaf.extras</groupId>
 	<artifactId>thymeleaf-joda-dialect</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<inceptionYear>2013</inceptionYear>
 	<contributors>
 		<contributor>
